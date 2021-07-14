@@ -8,6 +8,7 @@ Ozanich et al. (2021) "Deep embedded clustering of coral reef bioacoustics," Jou
 conda create -n <envname> python=3.6
 
 2. Activate environment
+
 source activate <envname>
 
 3. Install the packages listed in the "Notes.docx" document. It is best to install tensorflow first because it provides base packages
